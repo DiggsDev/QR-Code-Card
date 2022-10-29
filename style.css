@@ -1,0 +1,30 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+    margin: 0%;
+}
+
+p {
+    color: hsl(220, 15%, 55%);
+    font-weight: 400;
+    font-size: 15px;
+}
+
+#qrCard {
+    background-color: hsl(0, 0%, 100%);
+    text-align: center;
+    padding: 20px;
+    margin: auto;
+    width: 375px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 25px rgb(165, 165, 165);
+}
+
+h1 {
+    color: hsl(218, 44%, 22%);
+    font-weight: 700;
+}
+
+#qrCode {
+    max-width: 375px;
+    border-radius: 15px;
+}
